@@ -1,0 +1,1798 @@
+Comparing,  HUD2003005 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2003005/QC/HUD2003005_BCD_flagged.csv  ... 
+Found  7 invalid records in  HUD2003005 . 
+0  temperature and salinity records to be removed. 
+7  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission HUD2003005 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  conductivity_CTD    0
+  HPLC_ACAROT         0
+  HPLC_ALLOX          0
+  HPLC_ASTAX          0
+  HPLC_BCAROT         0
+  HPLC_BUT19          0
+  HPLC_BUTLIKE        0
+  HPLC_CHLA           0
+  HPLC_CHLB           0
+  HPLC_CHLC12         0
+  HPLC_CHLC3          0
+  HPLC_CHLIDEA        0
+  HPLC_DIADINOX       0
+  HPLC_DIATOX         0
+  HPLC_FUCOX          0
+  HPLC_HEX19          0
+  HPLC_HEXLIKE        0
+  HPLC_HEXLIKE2       0
+  HPLC_PERID          0
+  HPLC_PHAEO          0
+  HPLC_PRASINOX       0
+  HPLC_PYROPHAE       0
+  HPLC_VIOLAX         0
+  HPLC_ZEA            0
+  NO2NO3_Tech_F       0
+  O2_CTD_mLL          0
+  O2_Electrode_mll    0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          0
+  POC_CHN_mg/m3       0
+  PON_CHN_mg/m3       0
+  Pressure            0
+  Salinity_CTD        0
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         7
+  Temp_CTD_1968       0
+BCD comparison complete for  HUD2003005 .
+Comparing,  HUD2003078 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2003078/QC/HUD2003078_BCD_flagged.csv  ... 
+Found  48 invalid records in  HUD2003078 . 
+42  temperature and salinity records to be removed. 
+6  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission HUD2003078 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       2  4
+  Chl_a_Holm-Hansen_F  0  0
+  Chl_Fluor_Voltage    0  0
+  conductivity_CTD     0  0
+  HPLC_ACAROT          0  0
+  HPLC_ALLOX           0  0
+  HPLC_ASTAX           0  0
+  HPLC_BCAROT          0  0
+  HPLC_BUT19           0  0
+  HPLC_BUTLIKE         0  0
+  HPLC_CHLA            0  0
+  HPLC_CHLB            0  0
+  HPLC_CHLC12          0  0
+  HPLC_CHLC3           0  0
+  HPLC_CHLIDEA         0  0
+  HPLC_DIADINOX        0  0
+  HPLC_DIATOX          0  0
+  HPLC_FUCOX           0  0
+  HPLC_HEX19           0  0
+  HPLC_HEXLIKE         0  0
+  HPLC_HEXLIKE2        0  0
+  HPLC_PERID           0  0
+  HPLC_PHAEO           0  0
+  HPLC_PRASINOX        0  0
+  HPLC_PYROPHAE        0  0
+  HPLC_VIOLAX          0  0
+  HPLC_ZEA             0  0
+  NO2NO3_Tech_F        0  0
+  O2_CTD_mLL           0  0
+  O2_Electrode_mll     0  0
+  Phaeo_Holm-HansenF   0  0
+  PO4_Tech_F           1  0
+  POC_CHN_mg/m3        0  0
+  PON_CHN_mg/m3        0  0
+  Pressure             0  0
+  Salinity_CTD         0 21
+  SiO4_Tech_F          5  0
+  Temp_CTD_1968        0 21
+BCD comparison complete for  HUD2003078 .
+Comparing,  HUD2000050 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2000050/QC/HUD2000050_BCD_flagged.csv  ... 
+Found  314 invalid records in  HUD2000050 . 
+196  temperature and salinity records to be removed. 
+118  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission HUD2000050 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       4
+  Chl_a_Holm-Hansen_F  0
+  CO2                  0
+  conductivity_CTD     0
+  HPLC_ACAROT          0
+  HPLC_ALLOX           0
+  HPLC_ASTAX           0
+  HPLC_BCAROT          0
+  HPLC_BUT19           0
+  HPLC_BUTLIKE         0
+  HPLC_CHLA            0
+  HPLC_CHLB            0
+  HPLC_CHLC12          0
+  HPLC_CHLC3           0
+  HPLC_CHLIDEA         0
+  HPLC_DIADINOX        0
+  HPLC_DIATOX          0
+  HPLC_FUCOX           0
+  HPLC_HEX19           0
+  HPLC_HEXLIKE         0
+  HPLC_HEXLIKE2        0
+  HPLC_PERID           0
+  HPLC_PHAEO           0
+  HPLC_PRASINOX        0
+  HPLC_PYROPHAE        0
+  HPLC_VIOLAX          0
+  HPLC_ZEA             0
+  NO2NO3_Tech_F       33
+  O2_CTD_mLL           0
+  Phaeo_Holm-HansenF   0
+  PO4_Tech_F          39
+  POC_CHN_mg/m3        0
+  PON_CHN_mg/m3        0
+  Pressure             0
+  Salinity_CTD        98
+  SiO4_Tech_F         46
+  Temp_CTD_1968       98
+BCD comparison complete for  HUD2000050 .
+Comparing,  HUD2008037 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2008037/QC/HUD2008037_BCD_flagged.csv  ... 
+Found  1 invalid records in  HUD2008037 . 
+1  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission HUD2008037 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  conductivity_CTD    0
+  HPLC_ACAROT         0
+  HPLC_ALLOX          0
+  HPLC_ASTAX          0
+  HPLC_BCAROT         0
+  HPLC_BUT19          0
+  HPLC_BUTLIKE        0
+  HPLC_CHLA           0
+  HPLC_CHLB           0
+  HPLC_CHLC12         0
+  HPLC_CHLC3          0
+  HPLC_CHLIDEA        0
+  HPLC_DIADINOX       0
+  HPLC_DIATOX         0
+  HPLC_FUCOX          0
+  HPLC_HEX19          0
+  HPLC_HEXLIKE        0
+  HPLC_HEXLIKE2       0
+  HPLC_PERID          0
+  HPLC_PHAEO          0
+  HPLC_PRASINOX       0
+  HPLC_PYROPHAE       0
+  HPLC_VIOLAX         0
+  HPLC_ZEA            0
+  NH3_Tech_F          0
+  NO2_Tech_F          0
+  NO2NO3_Tech_F       0
+  O2_CTD_mLL          0
+  O2_Electrode_mll    0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          0
+  POC_CHN_mg/m3       0
+  PON_CHN_mg/m3       0
+  Pressure            0
+  Salinity_CTD        1
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         0
+  Temp_CTD_1968       0
+BCD comparison complete for  HUD2008037 .
+Comparing,  HUD2012042 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2012042/QC/HUD2012042_BCD_flagged.csv  ... 
+Found  9 invalid records in  HUD2012042 . 
+3  temperature and salinity records to be removed. 
+6  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission HUD2012042 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  conductivity_CTD    0
+  HPLC_ACAROT         0
+  HPLC_ALLOX          0
+  HPLC_ASTAX          0
+  HPLC_BCAROT         0
+  HPLC_BUT19          0
+  HPLC_BUTLIKE        0
+  HPLC_CHLA           0
+  HPLC_CHLB           0
+  HPLC_CHLC12         0
+  HPLC_CHLC3          0
+  HPLC_CHLIDEA        0
+  HPLC_DIADINOX       0
+  HPLC_DIATOX         0
+  HPLC_FUCOX          0
+  HPLC_HEX19          0
+  HPLC_HEXLIKE        0
+  HPLC_HEXLIKE2       0
+  HPLC_PERID          0
+  HPLC_PHAEO          0
+  HPLC_PRASINOX       0
+  HPLC_PYROPHAE       0
+  HPLC_VIOLAX         0
+  HPLC_ZEA            0
+  NH3_Tech_F          0
+  NO2_Tech_F          0
+  NO2NO3_Tech_F       1
+  O2_CTD_mLL          0
+  O2_Electrode_mll    0
+  O2_Winkler_Auto     0
+  pH_CTD_nocal        0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          3
+  POC_CHN_mg/m3       0
+  PON_CHN_mg/m3       0
+  Pressure            0
+  Salinity_CTD        0
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         2
+  Temp_CTD_1968       3
+BCD comparison complete for  HUD2012042 .
+Comparing,  NED2005004 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//NED2005004/QC/NED2005004_BCD_flagged.csv  ... 
+Found  3 invalid records in  NED2005004 . 
+0  temperature and salinity records to be removed. 
+3  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2005004 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      3
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  conductivity_CTD    0
+  HPLC_ACAROT         0
+  HPLC_ALLOX          0
+  HPLC_ASTAX          0
+  HPLC_BCAROT         0
+  HPLC_BUT19          0
+  HPLC_BUTLIKE        0
+  HPLC_CHLA           0
+  HPLC_CHLB           0
+  HPLC_CHLC12         0
+  HPLC_CHLC3          0
+  HPLC_CHLIDEA        0
+  HPLC_DIADINOX       0
+  HPLC_DIATOX         0
+  HPLC_FUCOX          0
+  HPLC_HEX19          0
+  HPLC_HEXLIKE        0
+  HPLC_HEXLIKE2       0
+  HPLC_PERID          0
+  HPLC_PHAEO          0
+  HPLC_PRASINOX       0
+  HPLC_PYROPHAE       0
+  HPLC_VIOLAX         0
+  HPLC_ZEA            0
+  NO2NO3_Tech_F       1
+  O2_CTD_mLL          0
+  O2_Electrode_mll    0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          1
+  POC_CHN_mg/m3       0
+  PON_CHN_mg/m3       0
+  Pressure            0
+  Salinity_CTD        0
+  SiO4_Tech_F         1
+  Temp_CTD_1968       0
+BCD comparison complete for  NED2005004 .
+Comparing,  HUD2001061 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2001061/QC/HUD2001061_BCD_flagged.csv  ... 
+Found  213 invalid records in  HUD2001061 . 
+94  temperature and salinity records to be removed. 
+119  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission HUD2001061 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       3  4
+  Chl_a_Holm-Hansen_F  0  0
+  conductivity_CTD     0  0
+  HPLC_ACAROT          0  0
+  HPLC_ALLOX           0  0
+  HPLC_ASTAX           0  0
+  HPLC_BCAROT          0  0
+  HPLC_BUT19           0  0
+  HPLC_BUTLIKE         0  0
+  HPLC_CHLA            0  0
+  HPLC_CHLB            0  0
+  HPLC_CHLC12          0  0
+  HPLC_CHLC3           0  0
+  HPLC_CHLIDEA         0  0
+  HPLC_DIADINOX        0  0
+  HPLC_DIATOX          0  0
+  HPLC_FUCOX           0  0
+  HPLC_HEX19           0  0
+  HPLC_HEXLIKE         0  0
+  HPLC_HEXLIKE2        0  0
+  HPLC_PERID           0  0
+  HPLC_PHAEO           0  0
+  HPLC_PRASINOX        0  0
+  HPLC_PYROPHAE        0  0
+  HPLC_VIOLAX          0  0
+  HPLC_ZEA             0  0
+  NO2NO3_Tech_F        6 31
+  O2_CTD_mLL           0  0
+  O2_Electrode_mll     0  0
+  Phaeo_Holm-HansenF   0  0
+  PO4_Tech_F          11 30
+  POC_CHN_mg/m3        0  0
+  PON_CHN_mg/m3        0  0
+  Pressure             0  0
+  Salinity_CTD         0 47
+  SiO4_Tech_F          0 41
+  Temp_CTD_1968        0 47
+BCD comparison complete for  HUD2001061 .
+Comparing,  HUD2005055 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2005055/QC/HUD2005055_BCD_flagged.csv  ... 
+Found  0 invalid records in  HUD2005055 . 
+0  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+BCD comparison complete for  HUD2005055 .
+Comparing,  HUD2007001 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2007001/QC/HUD2007001_BCD_flagged.csv  ... 
+Found  2 invalid records in  HUD2007001 . 
+0  temperature and salinity records to be removed. 
+2  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission HUD2007001 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  conductivity_CTD    0
+  HPLC_ACAROT         0
+  HPLC_ALLOX          0
+  HPLC_ASTAX          0
+  HPLC_BCAROT         0
+  HPLC_BUT19          0
+  HPLC_BUTLIKE        0
+  HPLC_CHLA           0
+  HPLC_CHLB           0
+  HPLC_CHLC12         0
+  HPLC_CHLC3          0
+  HPLC_CHLIDEA        0
+  HPLC_DIADINOX       0
+  HPLC_DIATOX         0
+  HPLC_FUCOX          0
+  HPLC_HEX19          0
+  HPLC_HEXLIKE        0
+  HPLC_HEXLIKE2       0
+  HPLC_PERID          0
+  HPLC_PHAEO          0
+  HPLC_PRASINOX       0
+  HPLC_PYROPHAE       0
+  HPLC_VIOLAX         0
+  HPLC_ZEA            0
+  NO2NO3_Tech_F       0
+  O2_CTD_mLL          0
+  O2_Electrode_mll    0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          0
+  POC_CHN_mg/m3       0
+  PON_CHN_mg/m3       0
+  Pressure            0
+  Salinity_CTD        0
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         2
+  Temp_CTD_1968       0
+BCD comparison complete for  HUD2007001 .
+Comparing,  HUD2001009 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2001009/QC/HUD2001009_BCD_flagged.csv  ... 
+Found  120 invalid records in  HUD2001009 . 
+110  temperature and salinity records to be removed. 
+10  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission HUD2001009 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       2  4
+  Chl_a_Holm-Hansen_F  0  0
+  CO2                  0  0
+  conductivity_CTD     0  0
+  HPLC_ACAROT          0  0
+  HPLC_ALLOX           0  0
+  HPLC_ASTAX           0  0
+  HPLC_BCAROT          0  0
+  HPLC_BUT19           0  0
+  HPLC_BUTLIKE         0  0
+  HPLC_CHLA            0  0
+  HPLC_CHLB            0  0
+  HPLC_CHLC12          0  0
+  HPLC_CHLC3           0  0
+  HPLC_CHLIDEA         0  0
+  HPLC_DIADINOX        0  0
+  HPLC_DIATOX          0  0
+  HPLC_FUCOX           0  0
+  HPLC_HEX19           0  0
+  HPLC_HEXLIKE         0  0
+  HPLC_HEXLIKE2        0  0
+  HPLC_PERID           0  0
+  HPLC_PHAEO           0  0
+  HPLC_PRASINOX        0  0
+  HPLC_PYROPHAE        0  0
+  HPLC_VIOLAX          0  0
+  HPLC_ZEA             0  0
+  NO2NO3_Tech_F        0  3
+  O2_CTD_mLL           0  0
+  O2_Electrode_mll     0  0
+  Phaeo_Holm-HansenF   0  0
+  PO4_Tech_F           0  3
+  POC_CHN_mg/m3        0  0
+  PON_CHN_mg/m3        0  0
+  Pressure             0  0
+  Salinity_CTD         0 55
+  SiO4_Tech_F          1  3
+  Temp_CTD_1968        0 55
+BCD comparison complete for  HUD2001009 .
+Comparing,  HUD2003067 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2003067/QC/HUD2003067_BCD_flagged.csv  ... 
+Found  5 invalid records in  HUD2003067 . 
+0  temperature and salinity records to be removed. 
+5  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission HUD2003067 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      2
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  conductivity_CTD    0
+  HPLC_ACAROT         0
+  HPLC_ALLOX          0
+  HPLC_ASTAX          0
+  HPLC_BCAROT         0
+  HPLC_BUT19          0
+  HPLC_BUTLIKE        0
+  HPLC_CHLA           0
+  HPLC_CHLB           0
+  HPLC_CHLC12         0
+  HPLC_CHLC3          0
+  HPLC_CHLIDEA        0
+  HPLC_DIADINOX       0
+  HPLC_DIATOX         0
+  HPLC_FUCOX          0
+  HPLC_HEX19          0
+  HPLC_HEXLIKE        0
+  HPLC_HEXLIKE2       0
+  HPLC_PERID          0
+  HPLC_PHAEO          0
+  HPLC_PRASINOX       0
+  HPLC_PYROPHAE       0
+  HPLC_VIOLAX         0
+  HPLC_ZEA            0
+  NO2NO3_Tech_F       1
+  O2_CTD_mLL          0
+  O2_Electrode_mll    0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          0
+  POC_CHN_mg/m3       0
+  PON_CHN_mg/m3       0
+  Pressure            0
+  Salinity_CTD        0
+  SiO4_Tech_F         4
+  Temp_CTD_1968       0
+BCD comparison complete for  HUD2003067 .
+Comparing,  HUD2006008 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2006008/QC/HUD2006008_BCD_flagged.csv  ... 
+Found  0 invalid records in  HUD2006008 . 
+0  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+BCD comparison complete for  HUD2006008 .
+Comparing,  HUD2009005 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2009005/QC/HUD2009005_BCD_flagged.csv  ... 
+Found  12 invalid records in  HUD2009005 . 
+0  temperature and salinity records to be removed. 
+12  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission HUD2009005 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      3 4
+  Chl_a_Holm-Hansen_F 0 0
+  Chl_Fluor_Voltage   0 0
+  conductivity_CTD    0 0
+  HPLC_ACAROT         0 0
+  HPLC_ALLOX          0 0
+  HPLC_ASTAX          0 0
+  HPLC_BCAROT         0 0
+  HPLC_BUT19          0 0
+  HPLC_BUTLIKE        0 0
+  HPLC_CHLA           0 0
+  HPLC_CHLB           0 0
+  HPLC_CHLC12         0 0
+  HPLC_CHLC3          0 0
+  HPLC_CHLIDEA        0 0
+  HPLC_DIADINOX       0 0
+  HPLC_DIATOX         0 0
+  HPLC_FUCOX          0 0
+  HPLC_HEX19          0 0
+  HPLC_HEXLIKE        0 0
+  HPLC_HEXLIKE2       0 0
+  HPLC_PERID          0 0
+  HPLC_PHAEO          0 0
+  HPLC_PRASINOX       0 0
+  HPLC_PYROPHAE       0 0
+  HPLC_VIOLAX         0 0
+  HPLC_ZEA            0 0
+  NH3_Tech_F          0 0
+  NO2_Tech_F          0 0
+  NO2NO3_Tech_F       3 1
+  O2_CTD_mLL          0 0
+  O2_Electrode_mll    0 0
+  pH_CTD_nocal        0 0
+  Phaeo_Holm-HansenF  0 0
+  PO4_Tech_F          3 1
+  POC_CHN_mg/m3       0 0
+  PON_CHN_mg/m3       0 0
+  Pressure            0 0
+  Salinity_CTD        0 0
+  Salinity_Sal_PSS    0 0
+  SiO4_Tech_F         3 1
+  Temp_CTD_1968       0 0
+BCD comparison complete for  HUD2009005 .
+Comparing,  HUD2011004 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2011004/QC/HUD2011004_BCD_flagged.csv  ... 
+Found  5 invalid records in  HUD2011004 . 
+5  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission HUD2011004 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  conductivity_CTD    0
+  HPLC_ACAROT         0
+  HPLC_ALLOX          0
+  HPLC_ASTAX          0
+  HPLC_BCAROT         0
+  HPLC_BUT19          0
+  HPLC_BUTLIKE        0
+  HPLC_CHLA           0
+  HPLC_CHLB           0
+  HPLC_CHLC12         0
+  HPLC_CHLC3          0
+  HPLC_CHLIDEA        0
+  HPLC_DIADINOX       0
+  HPLC_DIATOX         0
+  HPLC_FUCOX          0
+  HPLC_HEX19          0
+  HPLC_HEXLIKE        0
+  HPLC_HEXLIKE2       0
+  HPLC_PERID          0
+  HPLC_PHAEO          0
+  HPLC_PRASINOX       0
+  HPLC_PYROPHAE       0
+  HPLC_VIOLAX         0
+  HPLC_ZEA            0
+  NH3_Tech_F          0
+  NO2_Tech_F          0
+  NO2NO3_Tech_F       0
+  O2_CTD_mLL          0
+  O2_Electrode_mll    0
+  O2_Winkler_Auto     0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          0
+  POC_CHN_mg/m3       0
+  PON_CHN_mg/m3       0
+  Pressure            0
+  Salinity_CTD        5
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         0
+  Temp_CTD_1968       0
+BCD comparison complete for  HUD2011004 .
+Comparing,  HUD2011043 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2011043/QC/HUD2011043_BCD_flagged.csv  ... 
+Found  0 invalid records in  HUD2011043 . 
+0  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+BCD comparison complete for  HUD2011043 .
+Comparing,  HUD2004009 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2004009/QC/HUD2004009_BCD_flagged.csv  ... 
+Found  83 invalid records in  HUD2004009 . 
+52  temperature and salinity records to be removed. 
+31  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission HUD2004009 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       2  4
+  Chl_a_Holm-Hansen_F  0  0
+  Chl_Fluor_Voltage    0  0
+  conductivity_CTD     0  0
+  HPLC_ACAROT          0  0
+  HPLC_ALLOX           0  0
+  HPLC_ASTAX           0  0
+  HPLC_BCAROT          0  0
+  HPLC_BUT19           0  0
+  HPLC_BUTLIKE         0  0
+  HPLC_CHLA            0  0
+  HPLC_CHLB            0  0
+  HPLC_CHLC12          0  0
+  HPLC_CHLC3           0  0
+  HPLC_CHLIDEA         0  0
+  HPLC_DIADINOX        0  0
+  HPLC_DIATOX          0  0
+  HPLC_FUCOX           0  0
+  HPLC_HEX19           0  0
+  HPLC_HEXLIKE         0  0
+  HPLC_HEXLIKE2        0  0
+  HPLC_PERID           0  0
+  HPLC_PHAEO           0  0
+  HPLC_PRASINOX        0  0
+  HPLC_PYROPHAE        0  0
+  HPLC_VIOLAX          0  0
+  HPLC_ZEA             0  0
+  NO2NO3_Tech_F        0  2
+  O2_CTD_mLL           0  0
+  O2_Electrode_mll     0  0
+  Phaeo_Holm-HansenF   0  0
+  PO4_Tech_F          10 17
+  POC_CHN_mg/m3        0  0
+  PON_CHN_mg/m3        0  0
+  Pressure             0  0
+  Salinity_CTD         0 26
+  SiO4_Tech_F          0  2
+  Temp_CTD_1968        0 26
+BCD comparison complete for  HUD2004009 .
+Comparing,  HUD2009048 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2009048/QC/HUD2009048_BCD_flagged.csv  ... 
+Found  15 invalid records in  HUD2009048 . 
+0  temperature and salinity records to be removed. 
+15  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission HUD2009048 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      2 3 4
+  Chl_a_Holm-Hansen_F 0 0 0
+  Chl_Fluor_Voltage   0 0 0
+  conductivity_CTD    0 0 0
+  HPLC_ACAROT         0 0 0
+  HPLC_ALLOX          0 0 0
+  HPLC_ASTAX          0 0 0
+  HPLC_BCAROT         0 0 0
+  HPLC_BUT19          0 0 0
+  HPLC_BUTLIKE        0 0 0
+  HPLC_CHLA           0 0 0
+  HPLC_CHLB           0 0 0
+  HPLC_CHLC12         0 0 0
+  HPLC_CHLC3          0 0 0
+  HPLC_CHLIDEA        0 0 0
+  HPLC_DIADINOX       0 0 0
+  HPLC_DIATOX         0 0 0
+  HPLC_FUCOX          0 0 0
+  HPLC_HEX19          0 0 0
+  HPLC_HEXLIKE        0 0 0
+  HPLC_HEXLIKE2       0 0 0
+  HPLC_PERID          0 0 0
+  HPLC_PHAEO          0 0 0
+  HPLC_PRASINOX       0 0 0
+  HPLC_PYROPHAE       0 0 0
+  HPLC_VIOLAX         0 0 0
+  HPLC_ZEA            0 0 0
+  NH3_Tech_F          0 0 0
+  NO2_Tech_F          0 0 0
+  NO2NO3_Tech_F       0 2 1
+  O2_CTD_mLL          0 0 0
+  O2_Electrode_mll    0 0 0
+  pH_CTD_nocal        0 0 0
+  Phaeo_Holm-HansenF  0 0 0
+  PO4_Tech_F          0 2 0
+  POC_CHN_mg/m3       0 0 0
+  PON_CHN_mg/m3       0 0 0
+  Pressure            0 0 0
+  Salinity_CTD        0 0 0
+  Salinity_Sal_PSS    0 0 0
+  SiO4_Tech_F         3 7 0
+  Temp_CTD_1968       0 0 0
+BCD comparison complete for  HUD2009048 .
+Comparing,  PAR2000002 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//PAR2000002/QC/PAR2000002_BCD_flagged.csv  ... 
+Found  298 invalid records in  PAR2000002 . 
+158  temperature and salinity records to be removed. 
+140  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission PAR2000002 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       2  3  4
+  Chl_a_Holm-Hansen_F  0  0  0
+  Chl_Fluor_Voltage    0  0  0
+  CO2                  0  0  0
+  conductivity_CTD     0  0  0
+  HPLC_ACAROT          0  0  0
+  HPLC_ALLOX           0  0  0
+  HPLC_ASTAX           0  0  0
+  HPLC_BCAROT          0  0  0
+  HPLC_BUT19           0  0  0
+  HPLC_BUTLIKE         0  0  0
+  HPLC_CHLA            0  0  0
+  HPLC_CHLB            0  0  0
+  HPLC_CHLC12          0  0  0
+  HPLC_CHLC3           0  0  0
+  HPLC_CHLIDEA         0  0  0
+  HPLC_DIADINOX        0  0  0
+  HPLC_DIATOX          0  0  0
+  HPLC_FUCOX           0  0  0
+  HPLC_HEX19           0  0  0
+  HPLC_HEXLIKE         0  0  0
+  HPLC_HEXLIKE2        0  0  0
+  HPLC_PERID           0  0  0
+  HPLC_PHAEO           0  0  0
+  HPLC_PRASINOX        0  0  0
+  HPLC_PYROPHAE        0  0  0
+  HPLC_VIOLAX          0  0  0
+  HPLC_ZEA             0  0  0
+  NO2NO3_Tech_F        0  2 46
+  O2_CTD_mLL           0  0  0
+  Phaeo_Holm-HansenF   0  0  0
+  PO4_Tech_F           0  0 46
+  POC_CHN_mg/m3        0  0  0
+  PON_CHN_mg/m3        0  0  0
+  Pressure             0  0  0
+  Salinity_CTD         0  0 79
+  SiO4_Tech_F          1  1 44
+  Temp_CTD_1968        0  0 79
+BCD comparison complete for  PAR2000002 .
+Comparing,  HUD2002064 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2002064/QC/HUD2002064_BCD_flagged.csv  ... 
+Found  66 invalid records in  HUD2002064 . 
+62  temperature and salinity records to be removed. 
+4  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission HUD2002064 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       4
+  Chl_a_Holm-Hansen_F  0
+  Chl_Fluor_Voltage    0
+  conductivity_CTD     0
+  HPLC_ACAROT          0
+  HPLC_ALLOX           0
+  HPLC_ASTAX           0
+  HPLC_BCAROT          0
+  HPLC_BUT19           0
+  HPLC_BUTLIKE         0
+  HPLC_CHLA            0
+  HPLC_CHLB            0
+  HPLC_CHLC12          0
+  HPLC_CHLC3           0
+  HPLC_CHLIDEA         0
+  HPLC_DIADINOX        0
+  HPLC_DIATOX          0
+  HPLC_FUCOX           0
+  HPLC_HEX19           0
+  HPLC_HEXLIKE         0
+  HPLC_HEXLIKE2        0
+  HPLC_PERID           0
+  HPLC_PHAEO           0
+  HPLC_PRASINOX        0
+  HPLC_PYROPHAE        0
+  HPLC_VIOLAX          0
+  HPLC_ZEA             0
+  NO2NO3_Tech_F        1
+  O2_CTD_mLL           0
+  O2_Electrode_mll     0
+  Phaeo_Holm-HansenF   0
+  PO4_Tech_F           1
+  POC_CHN_mg/m3        0
+  PON_CHN_mg/m3        0
+  Pressure             0
+  Salinity_CTD        31
+  SiO4_Tech_F          2
+  Temp_CTD_1968       31
+BCD comparison complete for  HUD2002064 .
+Comparing,  HUD2004055 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2004055/QC/HUD2004055_BCD_flagged.csv  ... 
+Found  0 invalid records in  HUD2004055 . 
+0  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+BCD comparison complete for  HUD2004055 .
+Comparing,  HUD2007045 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2007045/QC/HUD2007045_BCD_flagged.csv  ... 
+Found  0 invalid records in  HUD2007045 . 
+0  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+BCD comparison complete for  HUD2007045 .
+Comparing,  HUD2006052 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2006052/QC/HUD2006052_BCD_flagged.csv  ... 
+Found  1 invalid records in  HUD2006052 . 
+0  temperature and salinity records to be removed. 
+1  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission HUD2006052 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      2
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  conductivity_CTD    0
+  HPLC_ACAROT         0
+  HPLC_ALLOX          0
+  HPLC_ASTAX          0
+  HPLC_BCAROT         0
+  HPLC_BUT19          0
+  HPLC_BUTLIKE        0
+  HPLC_CHLA           0
+  HPLC_CHLB           0
+  HPLC_CHLC12         0
+  HPLC_CHLC3          0
+  HPLC_CHLIDEA        0
+  HPLC_DIADINOX       0
+  HPLC_DIATOX         0
+  HPLC_FUCOX          0
+  HPLC_HEX19          0
+  HPLC_HEXLIKE        0
+  HPLC_HEXLIKE2       0
+  HPLC_PERID          0
+  HPLC_PHAEO          0
+  HPLC_PRASINOX       0
+  HPLC_PYROPHAE       0
+  HPLC_VIOLAX         0
+  HPLC_ZEA            0
+  NO2NO3_Tech_F       0
+  O2_CTD_mLL          0
+  O2_Electrode_mll    0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          0
+  POC_CHN_mg/m3       0
+  PON_CHN_mg/m3       0
+  Pressure            0
+  Salinity_CTD        0
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         1
+  Temp_CTD_1968       0
+BCD comparison complete for  HUD2006052 .
+Comparing,  HUD2008004 , AZMP cruise...  
+Loading BCD file,  E:/BioChem QC/azmp_data//HUD2008004/QC/HUD2008004_BCD_flagged.csv  ... 
+Found  0 invalid records in  HUD2008004 . 
+0  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+BCD comparison complete for  HUD2008004 .
+Comparing,  NED2013002 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2013002/NED2013002_BCD_flagged.csv  ... 
+Found  2 invalid records in  NED2013002 . 
+2  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2013002 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  NH3_Tech_F          0
+  NO2_Tech_F          0
+  NO2NO3_Tech_F       0
+  O2_CTD_mLL          0
+  O2_Electrode        0
+  O2_Electrode_mll    0
+  PAR                 0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          0
+  Salinity_CTD        2
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         0
+  Temp_CTD_1968       0
+BCD comparison complete for  NED2013002 .
+Comparing,  NED2013022 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2013022/NED2013022_BCD_flagged.csv  ... 
+Found  15 invalid records in  NED2013022 . 
+11  temperature and salinity records to be removed. 
+4  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2013022 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       2  4
+  Chl_a_Holm-Hansen_F  0  0
+  Chl_Fluor_Voltage    0  0
+  NH3_Tech_F           0  0
+  NO2_Tech_F           0  0
+  NO2NO3_Tech_F        0  3
+  O2_CTD_mLL           0  0
+  O2_Electrode         0  0
+  O2_Electrode_mll     0  0
+  O2_Winkler           0  0
+  PAR                  0  0
+  Phaeo_Holm-HansenF   0  0
+  PO4_Tech_F           1  0
+  Salinity_CTD         0 11
+  Salinity_Sal_PSS     0  0
+  SiO4_Tech_F          0  0
+  Temp_CTD_1968        0  0
+BCD comparison complete for  NED2013022 .
+Comparing,  NED2003002 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2003002/NED2003002_BCD_flagged.csv  ... 
+Found  5 invalid records in  NED2003002 . 
+5  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2003002 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  NO2NO3_Tech_F       0
+  O2_CTD_mLL          0
+  O2_Electrode        0
+  O2_Electrode_mll    0
+  PAR                 0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          0
+  Salinity_CTD        5
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         0
+  Temp_CTD_1968       0
+BCD comparison complete for  NED2003002 .
+Comparing,  NED2003003 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2003003/NED2003003_BCD_flagged.csv  ... 
+Found  1 invalid records in  NED2003003 . 
+1  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2003003 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  O2_CTD_mLL          0
+  O2_Electrode        0
+  O2_Electrode_mll    0
+  PAR                 0
+  Phaeo_Holm-HansenF  0
+  Salinity_CTD        0
+  Salinity_Sal_PSS    0
+  Temp_CTD_1968       1
+BCD comparison complete for  NED2003003 .
+Comparing,  NED2003036 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2003036/NED2003036_BCD_flagged.csv  ... 
+Found  1 invalid records in  NED2003036 . 
+1  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2003036 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  O2_CTD_mLL          0
+  O2_Electrode        0
+  O2_Electrode_mll    0
+  PAR                 0
+  Phaeo_Holm-HansenF  0
+  Salinity_CTD        1
+  Salinity_Sal_PSS    0
+  Temp_CTD_1968       0
+BCD comparison complete for  NED2003036 .
+Comparing,  TEM2004004 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//TEM2004004/TEM2004004_BCD_flagged.csv  ... 
+Found  18 invalid records in  TEM2004004 . 
+18  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission TEM2004004 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       4
+  Chl_a_Holm-Hansen_F  0
+  Chl_Fluor_Voltage    0
+  NO2NO3_Tech_F        0
+  O2_CTD_mLL           0
+  O2_Electrode         0
+  O2_Electrode_mll     0
+  PAR                  0
+  Phaeo_Holm-HansenF   0
+  PO4_Tech_F           0
+  Salinity_CTD        18
+  Salinity_Sal_PSS     0
+  SiO4_Tech_F          0
+  Temp_CTD_1968        0
+BCD comparison complete for  TEM2004004 .
+Comparing,  TEL2004529 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//TEL2004529/TEL2004529_BCD_flagged.csv  ... 
+Found  27 invalid records in  TEL2004529 . 
+23  temperature and salinity records to be removed. 
+4  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission TEL2004529 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       4
+  Chl_a_Holm-Hansen_F  0
+  Chl_Fluor_Voltage    0
+  NO2NO3_Tech_F        0
+  O2_CTD_mLL           0
+  O2_Electrode         0
+  O2_Electrode_mll     0
+  PAR                  0
+  Phaeo_Holm-HansenF   0
+  PO4_Tech_F           0
+  Salinity_CTD        23
+  Salinity_Sal_PSS     0
+  SiO4_Tech_F          4
+  Temp_CTD_1968        0
+BCD comparison complete for  TEL2004529 .
+Comparing,  TEL2004530 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//TEL2004530/TEL2004530_BCD_flagged.csv  ... 
+Found  42 invalid records in  TEL2004530 . 
+42  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission TEL2004530 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       4
+  Chl_a_Holm-Hansen_F  0
+  Chl_Fluor_Voltage    0
+  NO2NO3_Tech_F        0
+  O2_CTD_mLL           0
+  O2_Electrode         0
+  O2_Electrode_mll     0
+  PAR                  0
+  Phaeo_Holm-HansenF   0
+  PO4_Tech_F           0
+  Salinity_CTD        42
+  Salinity_Sal_PSS     0
+  SiO4_Tech_F          0
+  Temp_CTD_1968        0
+BCD comparison complete for  TEL2004530 .
+Comparing,  NED2005027 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2005027/NED2005027_BCD_flagged.csv  ... 
+Found  17 invalid records in  NED2005027 . 
+17  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2005027 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                   
+                     4
+  Chl_Fluor_Voltage  0
+  NO2NO3_Tech_F      0
+  O2_CTD_mLL         0
+  PAR                0
+  PO4_Tech_F         0
+  Salinity_CTD      17
+  Salinity_Sal_PSS   0
+  SiO4_Tech_F        0
+  Temp_CTD_1968      0
+BCD comparison complete for  NED2005027 .
+Comparing,  TEL2005545 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//TEL2005545/TEL2005545_BCD_flagged.csv  ... 
+Found  5 invalid records in  TEL2005545 . 
+5  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission TEL2005545 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  NO2NO3_Tech_F       0
+  O2_CTD_mLL          0
+  O2_Electrode        0
+  O2_Electrode_mll    0
+  PAR                 0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          0
+  Salinity_CTD        5
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         0
+  Temp_CTD_1968       0
+BCD comparison complete for  TEL2005545 .
+Comparing,  TEL2005546 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//TEL2005546/TEL2005546_BCD_flagged.csv  ... 
+Found  12 invalid records in  TEL2005546 . 
+12  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission TEL2005546 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       4
+  Chl_a_Holm-Hansen_F  0
+  Chl_Fluor_Voltage    0
+  NO2NO3_Tech_F        0
+  O2_CTD_mLL           0
+  O2_Electrode         0
+  O2_Electrode_mll     0
+  PAR                  0
+  Phaeo_Holm-HansenF   0
+  PO4_Tech_F           0
+  Salinity_CTD        12
+  Salinity_Sal_PSS     0
+  SiO4_Tech_F          0
+  Temp_CTD_1968        0
+BCD comparison complete for  TEL2005546 .
+Comparing,  TEL2005605 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//TEL2005605/TEL2005605_BCD_flagged.csv  ... 
+Found  12 invalid records in  TEL2005605 . 
+12  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission TEL2005605 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       4
+  Chl_a_Holm-Hansen_F  0
+  Chl_Fluor_Voltage    0
+  NO2NO3_Tech_F        0
+  O2_CTD_mLL           0
+  O2_Electrode         0
+  O2_Electrode_mll     0
+  PAR                  0
+  Phaeo_Holm-HansenF   0
+  PO4_Tech_F           0
+  Salinity_CTD        12
+  Salinity_Sal_PSS     0
+  SiO4_Tech_F          0
+  Temp_CTD_1968        0
+BCD comparison complete for  TEL2005605 .
+Comparing,  TEL2005633 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//TEL2005633/TEL2005633_BCD_flagged.csv  ... 
+Found  15 invalid records in  TEL2005633 . 
+15  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission TEL2005633 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       4
+  Chl_a_Holm-Hansen_F  0
+  Chl_Fluor_Voltage    0
+  NO2NO3_Tech_F        0
+  O2_CTD_mLL           0
+  O2_Electrode         0
+  O2_Electrode_mll     0
+  PAR                  0
+  Phaeo_Holm-HansenF   0
+  PO4_Tech_F           0
+  Salinity_CTD        15
+  Salinity_Sal_PSS     0
+  SiO4_Tech_F          0
+  Temp_CTD_1968        0
+BCD comparison complete for  TEL2005633 .
+Comparing,  NED2006030 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2006030/NED2006030_BCD_flagged.csv  ... 
+Found  10 invalid records in  NED2006030 . 
+10  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2006030 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       4
+  Chl_a_Holm-Hansen_F  0
+  Chl_Fluor_Voltage    0
+  NO2NO3_Tech_F        0
+  O2_CTD_mLL           0
+  O2_Electrode         0
+  O2_Electrode_mll     0
+  PAR                  0
+  Phaeo_Holm-HansenF   0
+  PO4_Tech_F           0
+  Salinity_CTD        10
+  Salinity_Sal_PSS     0
+  SiO4_Tech_F          0
+  Temp_CTD_1968        0
+BCD comparison complete for  NED2006030 .
+Comparing,  NED2006036 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2006036/NED2006036_BCD_flagged.csv  ... 
+Found  5 invalid records in  NED2006036 . 
+5  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2006036 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  NO2NO3_Tech_F       0
+  O2_CTD_mLL          0
+  O2_Electrode        0
+  O2_Electrode_mll    0
+  PAR                 0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          0
+  Salinity_CTD        5
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         0
+  Temp_CTD_1968       0
+BCD comparison complete for  NED2006036 .
+Comparing,  TEL2006614 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//TEL2006614/TEL2006614_BCD_flagged.csv  ... 
+Found  9 invalid records in  TEL2006614 . 
+8  temperature and salinity records to be removed. 
+1  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission TEL2006614 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      2 4
+  Chl_a_Holm-Hansen_F 0 0
+  Chl_Fluor_Voltage   0 0
+  NO2NO3_Tech_F       0 0
+  O2_CTD_mLL          0 0
+  O2_Electrode        0 0
+  O2_Electrode_mll    0 0
+  PAR                 0 0
+  Phaeo_Holm-HansenF  0 0
+  PO4_Tech_F          0 0
+  Salinity_CTD        0 8
+  Salinity_Sal_PSS    0 0
+  SiO4_Tech_F         1 0
+  Temp_CTD_1968       0 0
+BCD comparison complete for  TEL2006614 .
+Comparing,  TEL2006615 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//TEL2006615/TEL2006615_BCD_flagged.csv  ... 
+Found  10 invalid records in  TEL2006615 . 
+9  temperature and salinity records to be removed. 
+1  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission TEL2006615 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      2 4
+  Chl_a_Holm-Hansen_F 0 0
+  Chl_Fluor_Voltage   0 0
+  NO2NO3_Tech_F       1 0
+  O2_CTD_mLL          0 0
+  O2_Electrode        0 0
+  O2_Electrode_mll    0 0
+  PAR                 0 0
+  Phaeo_Holm-HansenF  0 0
+  PO4_Tech_F          0 0
+  Salinity_CTD        0 9
+  Salinity_Sal_PSS    0 0
+  SiO4_Tech_F         0 0
+  Temp_CTD_1968       0 0
+BCD comparison complete for  TEL2006615 .
+Comparing,  TEM2007685 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//TEM2007685/TEM2007685_BCD_flagged.csv  ... 
+Found  96 invalid records in  TEM2007685 . 
+96  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission TEM2007685 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       3  4
+  Chl_a_Holm-Hansen_F  0  0
+  Chl_Fluor_Voltage    0  0
+  NO2NO3_Tech_F        0  0
+  O2_CTD_mLL           0  0
+  O2_Electrode         0  0
+  O2_Electrode_mll     0  0
+  PAR                  0  0
+  Phaeo_Holm-HansenF   0  0
+  PO4_Tech_F           0  0
+  Salinity_CTD        14 82
+  Salinity_Sal_PSS     0  0
+  SiO4_Tech_F          0  0
+  Temp_CTD_1968        0  0
+BCD comparison complete for  TEM2007685 .
+Comparing,  TEM2007686 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//TEM2007686/TEM2007686_BCD_flagged.csv  ... 
+Found  64 invalid records in  TEM2007686 . 
+64  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission TEM2007686 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       3  4
+  Chl_a_Holm-Hansen_F  0  0
+  Chl_Fluor_Voltage    0  0
+  NO2NO3_Tech_F        0  0
+  O2_CTD_mLL           0  0
+  O2_Electrode         0  0
+  O2_Electrode_mll     0  0
+  PAR                  0  0
+  Phaeo_Holm-HansenF   0  0
+  PO4_Tech_F           0  0
+  Salinity_CTD         3 61
+  Salinity_Sal_PSS     0  0
+  SiO4_Tech_F          0  0
+  Temp_CTD_1968        0  0
+BCD comparison complete for  TEM2007686 .
+Comparing,  TEL2007745 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//TEL2007745/TEL2007745_BCD_flagged.csv  ... 
+Found  10 invalid records in  TEL2007745 . 
+10  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission TEL2007745 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       4
+  Chl_a_Holm-Hansen_F  0
+  Chl_Fluor_Voltage    0
+  NO2NO3_Tech_F        0
+  O2_CTD_mLL           0
+  O2_Electrode         0
+  O2_Electrode_mll     0
+  PAR                  0
+  Phaeo_Holm-HansenF   0
+  PO4_Tech_F           0
+  Salinity_CTD        10
+  Salinity_Sal_PSS     0
+  SiO4_Tech_F          0
+  Temp_CTD_1968        0
+BCD comparison complete for  TEL2007745 .
+Comparing,  TEM2008775 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//TEM2008775/TEM2008775_BCD_flagged.csv  ... 
+Found  10 invalid records in  TEM2008775 . 
+6  temperature and salinity records to be removed. 
+4  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission TEM2008775 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  NO2NO3_Tech_F       0
+  O2_CTD_mLL          0
+  O2_Electrode        0
+  O2_Electrode_mll    0
+  PAR                 0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          2
+  Salinity_CTD        6
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         2
+  Temp_CTD_1968       0
+BCD comparison complete for  TEM2008775 .
+Comparing,  TEL2008805 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//TEL2008805/TEL2008805_BCD_flagged.csv  ... 
+Found  7 invalid records in  TEL2008805 . 
+7  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission TEL2008805 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  NO2NO3_Tech_F       0
+  O2_CTD_mLL          0
+  O2_Electrode        0
+  O2_Electrode_mll    0
+  PAR                 0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          0
+  Salinity_CTD        7
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         0
+  Temp_CTD_1968       0
+BCD comparison complete for  TEL2008805 .
+Comparing,  TEM2008830 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//TEM2008830/TEM2008830_BCD_flagged.csv  ... 
+Found  26 invalid records in  TEM2008830 . 
+26  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission TEM2008830 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       4
+  Chl_a_Holm-Hansen_F  0
+  Chl_Fluor_Voltage    0
+  O2_CTD_mLL           0
+  O2_Electrode         0
+  O2_Electrode_mll     0
+  PAR                  0
+  Phaeo_Holm-HansenF   0
+  Salinity_CTD        26
+  Salinity_Sal_PSS     0
+  Temp_CTD_1968        0
+BCD comparison complete for  TEM2008830 .
+Comparing,  NED2009027 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2009027/NED2009027_BCD_flagged.csv  ... 
+Found  12 invalid records in  NED2009027 . 
+10  temperature and salinity records to be removed. 
+2  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2009027 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       4
+  Chl_a_Holm-Hansen_F  0
+  Chl_Fluor_Voltage    0
+  NH3_Tech_F           0
+  NO2_Tech_F           0
+  NO2NO3_Tech_F        2
+  O2_CTD_mLL           0
+  O2_Electrode         0
+  O2_Electrode_mll     0
+  PAR                  0
+  Phaeo_Holm-HansenF   0
+  PO4_Tech_F           0
+  Salinity_CTD        10
+  Salinity_Sal_PSS     0
+  SiO4_Tech_F          0
+  Temp_CTD_1968        0
+BCD comparison complete for  NED2009027 .
+Comparing,  NED2009841 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2009841/NED2009841_BCD_flagged.csv  ... 
+Found  3 invalid records in  NED2009841 . 
+3  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2009841 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  NH3_Tech_F          0
+  NO2_Tech_F          0
+  NO2NO3_Tech_F       0
+  O2_CTD_mLL          0
+  O2_Electrode        0
+  O2_Electrode_mll    0
+  PAR                 0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          0
+  Salinity_CTD        3
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         0
+  Temp_CTD_1968       0
+BCD comparison complete for  NED2009841 .
+Comparing,  NED2010001 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2010001/NED2010001_BCD_flagged.csv  ... 
+Found  2 invalid records in  NED2010001 . 
+1  temperature and salinity records to be removed. 
+1  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2010001 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      2 4
+  Chl_a_Holm-Hansen_F 0 0
+  Chl_Fluor_Voltage   0 0
+  NH3_Tech_F          0 0
+  NO2_Tech_F          0 0
+  NO2NO3_Tech_F       0 0
+  O2_CTD_mLL          0 0
+  O2_Electrode        0 0
+  O2_Electrode_mll    0 0
+  PAR                 0 0
+  Phaeo_Holm-HansenF  0 0
+  PO4_Tech_F          1 0
+  Salinity_CTD        0 1
+  Salinity_Sal_PSS    0 0
+  SiO4_Tech_F         0 0
+  Temp_CTD_1968       0 0
+BCD comparison complete for  NED2010001 .
+Comparing,  NED2010002 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2010002/NED2010002_BCD_flagged.csv  ... 
+Found  1 invalid records in  NED2010002 . 
+1  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2010002 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  NH3_Tech_F          0
+  NO2_Tech_F          0
+  NO2NO3_Tech_F       0
+  O2_CTD_mLL          0
+  O2_Electrode        0
+  O2_Electrode_mll    0
+  PAR                 0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          0
+  Salinity_CTD        1
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         0
+  Temp_CTD_1968       0
+BCD comparison complete for  NED2010002 .
+Comparing,  NED2010027 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2010027/NED2010027_BCD_flagged.csv  ... 
+Found  5 invalid records in  NED2010027 . 
+5  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2010027 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  NH3_Tech_F          0
+  NO2_Tech_F          0
+  NO2NO3_Tech_F       0
+  O2_CTD_mLL          0
+  O2_Electrode        0
+  O2_Electrode_mll    0
+  PAR                 0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          0
+  Salinity_CTD        5
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         0
+  Temp_CTD_1968       0
+BCD comparison complete for  NED2010027 .
+Comparing,  NED2011002 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2011002/NED2011002_BCD_flagged.csv  ... 
+Found  1 invalid records in  NED2011002 . 
+1  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2011002 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  NH3_Tech_F          0
+  NO2_Tech_F          0
+  NO2NO3_Tech_F       0
+  O2_CTD_mLL          0
+  O2_Electrode        0
+  O2_Electrode_mll    0
+  PAR                 0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          0
+  Salinity_CTD        1
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         0
+  Temp_CTD_1968       0
+BCD comparison complete for  NED2011002 .
+Comparing,  NED2011025 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2011025/NED2011025_BCD_flagged.csv  ... 
+Found  13 invalid records in  NED2011025 . 
+13  temperature and salinity records to be removed. 
+0  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2011025 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                       4
+  Chl_a_Holm-Hansen_F  0
+  Chl_Fluor_Voltage    0
+  NH3_Tech_F           0
+  NO2_Tech_F           0
+  NO2NO3_Tech_F        0
+  O2_CTD_mLL           0
+  O2_Electrode         0
+  O2_Electrode_mll     0
+  PAR                  0
+  Phaeo_Holm-HansenF   0
+  PO4_Tech_F           0
+  Salinity_CTD        13
+  Salinity_Sal_PSS     0
+  SiO4_Tech_F          0
+  Temp_CTD_1968        0
+BCD comparison complete for  NED2011025 .
+Comparing,  NED2012002 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2012002/NED2012002_BCD_flagged.csv  ... 
+Found  8 invalid records in  NED2012002 . 
+6  temperature and salinity records to be removed. 
+2  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2012002 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      4
+  Chl_a_Holm-Hansen_F 0
+  Chl_Fluor_Voltage   0
+  NH3_Tech_F          0
+  NO2_Tech_F          0
+  NO2NO3_Tech_F       2
+  O2_CTD_mLL          0
+  O2_Electrode        0
+  O2_Electrode_mll    0
+  PAR                 0
+  Phaeo_Holm-HansenF  0
+  PO4_Tech_F          0
+  Salinity_CTD        6
+  Salinity_Sal_PSS    0
+  SiO4_Tech_F         0
+  Temp_CTD_1968       0
+BCD comparison complete for  NED2012002 .
+Comparing,  NED2012022 , Groundfish cruise... 
+Loading BCD file,  E:/BioChem QC/groundfish_data//NED2012022/NED2012022_BCD_flagged.csv  ... 
+Found  10 invalid records in  NED2012022 . 
+7  temperature and salinity records to be removed. 
+3  nutrient records to be flagged. 
+
+ 
+-> Flags sucessfully transfered to BCD file for mission NED2012022 .
+ 
+-> Summary of the flags for each parameter:
+ 
+                     
+                      2 3 4
+  Chl_a_Holm-Hansen_F 0 0 0
+  Chl_Fluor_Voltage   0 0 0
+  NH3_Tech_F          0 0 0
+  NO2_Tech_F          0 0 0
+  NO2NO3_Tech_F       1 2 0
+  O2_CTD_mLL          0 0 0
+  O2_Electrode        0 0 0
+  O2_Electrode_mll    0 0 0
+  PAR                 0 0 0
+  Phaeo_Holm-HansenF  0 0 0
+  PO4_Tech_F          0 0 0
+  Salinity_CTD        0 0 7
+  Salinity_Sal_PSS    0 0 0
+  SiO4_Tech_F         0 0 0
+  Temp_CTD_1968       0 0 0
+BCD comparison complete for  NED2012022 .

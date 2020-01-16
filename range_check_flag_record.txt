@@ -1,0 +1,12 @@
+Test 1: Global range check ... 
+
+
+15 salinity points outside of globally possible range! 
+Gloablly impossible salinity points set to NA values! 
+
+
+0 temperature points outside of globally possible range! 
+
+
+6 nutrient points outside of globally possible range! 
+Gloablly impossible nutrient points given QC code of 4 (erroneous)! 
